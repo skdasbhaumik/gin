@@ -1,0 +1,15 @@
+﻿* filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
+.pluto-manifest.json !filter !diff
+*.png !filter !diff
+*.jpg !filter !diff
+*.jpeg !filter !diff
+*.stl !filter !diff
+*.3mf !filter !diff
+*.obj !filter !diff
+*.zip !filter !diff
+*.exe !filter !diff
+*.dll !filter !diff
+*.so !filter !diff
+*.a !filter !diff
+*.lib !filter !diff
